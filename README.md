@@ -1,2 +1,3 @@
-# deep-learning-from-scratch
-Deep Learning Algorithms From Scratch
+# Deep Learning Algorithms From Scratch
+
+Hands-on implementation of Deep Learning algorithms using tensorflow framework.
